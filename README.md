@@ -12,3 +12,9 @@ Repositori ini berisi portofolio tugas mata kuliah Open Source.
 ## Ketertarikan pada Open Source
 
 Saya tertarik pada open source karena kodenya dapat dipelajari, dikembangkan bersama, dan dimanfaatkan secara bebas.
+
+## Tools Open Source yang Dipelajari
+
+- Git dan GitHub untuk version control
+- LibreOffice untuk dokumen
+- Linux sebagai sistem operasi
