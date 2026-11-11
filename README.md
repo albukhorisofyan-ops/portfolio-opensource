@@ -18,3 +18,9 @@ Saya tertarik pada open source karena kodenya dapat dipelajari, dikembangkan ber
 - Git dan GitHub untuk version control
 - LibreOffice untuk dokumen
 - Linux sebagai sistem operasi
+
+## Tujuan Belajar dan Kontak
+
+Tujuan: memahami alur kerja open source dan berkontribusi pada proyek komunitas.
+
+Email: emailkamu@contoh.com
